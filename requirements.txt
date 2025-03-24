@@ -1,0 +1,7 @@
+flask
+flask-cors
+scikit-learn
+pandas
+numpy
+tensorflow  # If using Deep Learning
+transformers  # If using BERT
